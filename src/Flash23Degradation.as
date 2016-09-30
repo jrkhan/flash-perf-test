@@ -11,7 +11,7 @@ package
 	public class Flash23Degradation extends Sprite
 	{
 		public static const RUNS:int = 20;
-		public static const INVOCATIONS_PER_FRAME:int = 100000000;
+		public static const INVOCATIONS_PER_FRAME:int = 200000000;
 		
 		public var tf:TextField = new TextField();
 		public var timer:Timer = new Timer(0);
